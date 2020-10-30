@@ -6,5 +6,5 @@ If you want to make your raspberry pi a router or something than you won't have 
 
 ## How to use them
 
-First, install [https://github.com/smth-0/catcombine](CatCombine) because it the manager you properly install this with.
-Secondly, use it to install this module.
+- First, install [CatCombine](https://github.com/smth-0/catcombine) because it the manager you properly install this with.
+- Secondly, use it to install this module.
